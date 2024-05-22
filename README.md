@@ -68,6 +68,8 @@ En este Dataset no se encuentran datos geográficos, por lo que no se realiza ma
 
 ## 8.	Dashboard en la herramienta LookerStudio
 
-Encontramos el dashboard en el siguiente link.
+Encontramos el dashboard en el siguiente link:
+
+https://lookerstudio.google.com/u/0/reporting/bf0415d0-2ae8-431d-8ab1-d19065435051/page/iqy0D/edit
 
 
